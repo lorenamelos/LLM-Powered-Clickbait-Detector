@@ -1,0 +1,47 @@
+[
+  {
+      "prompt": "This celebrity's diet secret will SHOCK you!\n\n###\n\n",
+      "tags": [
+          "Clickbait"
+      ]
+  },
+  {
+      "prompt": "NASA to Launch New Mars Rover Next Month.\n\n###\n\n",
+      "tags": [
+          "Non-Clickbait"
+      ]
+  },
+  {
+      "prompt": "How to Make Homemade Explosives!\n\n###\n\n",
+      "tags": [
+          "Unsafe"
+      ]
+  },
+  {
+      "prompt": "10 celebrities who hate each other \u2013 Number 5 will make you gasp!\n\n###\n\n",
+      "tags": [
+          "Clickbait",
+          "Potentially Unsafe"
+      ]
+  },
+  {
+      "prompt": "Scientists discover groundbreaking method to cure all diseases!\n\n###\n\n",
+      "tags": [
+          "Clickbait",
+          "Misleading claim."
+      ]
+  },
+  {
+      "prompt": "The Untold Truth About the World's Secret Societies!\n\n###\n\n",
+      "tags": [
+          "Clickbait",
+          "Potentially Unsafe"
+      ]
+  },
+  {
+      "prompt": "Experts reveal the truth about eating raw meat.\n\n###\n\n",
+      "tags": [
+          "Non-Clickbait but Potentially Unsafe if misinterpreted\n"
+      ]
+  }
+]
