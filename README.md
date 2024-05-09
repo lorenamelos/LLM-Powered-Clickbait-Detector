@@ -1,7 +1,7 @@
 # LLM-Powered Clickbait Detector 🦈
 
 ## Overview
-This project aims to build an LLM-powered clickbait detector, making use of prompt techniques such as few-shot, zero-shot, CoT, etc.
+This project aims to build an LLM-powered clickbait detector, making use of prompt techniques such as few-shot, zero-shot, CoT, etc, show casing prompt engineering abilities and also LLMOps process regarding version control using Comet.
 
 ### Part 1: Dataset Creation
 - Design a prompt/chain to detect if an article is clickbait or not based on its headline.
