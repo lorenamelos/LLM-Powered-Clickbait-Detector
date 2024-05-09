@@ -1,4 +1,4 @@
-# LLM-Powered Clickbait Detector
+# LLM-Powered Clickbait Detector 🦈
 
 ## Overview
 This project aims to build an LLM-powered clickbait detector, making use of prompt techniques such as few-shot, zero-shot, CoT, etc.
